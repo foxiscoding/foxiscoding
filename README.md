@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @foxiscoding
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning C++
+- 📫 How to reach me... (i'll tell you later)
