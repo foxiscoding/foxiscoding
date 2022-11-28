@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @foxiscoding
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Games, Web Development
+- 🌱 I’m currently learning C++, JavaScript
 - 📫 How to reach me... (i'll tell you later)
